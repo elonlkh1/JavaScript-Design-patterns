@@ -11,7 +11,6 @@ w*~
 *.log
 *.rej
 *.swo
-*.swp
 *.vi
 *.rdb
 *.pub
@@ -25,3 +24,4 @@ semioe
 .idea
 .vscode
 front/node_modules/
+unit2/
